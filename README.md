@@ -1,3 +1,3 @@
 # Gitチュートリアル
 - feature-A
-- fix-B #modify timezone Asia/Tokyo
+- fix-B #modify timezone
